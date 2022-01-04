@@ -7,6 +7,9 @@
     font-family: Arial, Helvetica, sans-serif;
     box-shadow:black 3px 2px ;
 }
+label{
+    color: #FFD1FF;
+}
 
 h1{
     margin-top: 0;
@@ -14,12 +17,13 @@ h1{
 }
 
 input{
-    width: 100%;
+    width: 80%;
     display: block;
     padding: 5px;
     box-sizing: border-box;
     margin-bottom: 10px;
     box-shadow:black 3px 2px;
+    align-items: center;
 }
 
 p{
