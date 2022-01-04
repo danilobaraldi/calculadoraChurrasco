@@ -1,0 +1,22 @@
+.container{
+    max-width: 300px;
+    margin: auto;
+    background-color: rebeccapurple;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow:black 3px 2px ;
+}
+
+h1{
+    margin-top: 0;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    box-shadow:black 3px 2px;
+}
