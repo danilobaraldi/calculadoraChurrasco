@@ -21,3 +21,7 @@ input{
     margin-bottom: 10px;
     box-shadow:black 3px 2px;
 }
+
+p{
+    color: white;
+}
